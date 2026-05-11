@@ -1,4 +1,4 @@
-
+Enhance Craft for macOS with updated Automation for Craft for macOS - custom shortcuts and goal tracking, the #1 automation. Includes custom shortcuts and goal tracking for a
 
 
 
